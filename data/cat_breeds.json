@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "name": "Siameză",
+    "description": "O pisică extrem de comunicativă și inteligentă, cunoscută pentru ochii albaștri migdalați și blana cu puncte de culoare închisă.",
+    "image": "https://i.imgur.com/twfxonM.png"
+  },
+  {
+    "id": "2",
+    "name": "Maine Coon",
+    "description": "Uriașul blând al lumii feline, această rasă impresionează prin talia mare, blana deasă și personalitatea extrem de prietenoasă.",
+    "image": "https://i.imgur.com/QqhBdie.jpeg"
+  },
+  {
+    "id": "3",
+    "name": "Persană",
+    "description": "Simbolul eleganței, pisica Persană are o blană lungă, luxoasă și un temperament calm, fiind ideală pentru un stil de viață relaxat.",
+    "image": "https://i.imgur.com/vbviAbU.png"
+  },
+  {
+    "id": "4",
+    "name": "Bengaleză",
+    "description": "Cu un aspect de leopard miniatural, este o pisică energică, curioasă și pasionată de joacă, adesea iubind chiar și apa.",
+    "image": "https://i.imgur.com/8GBNJ0L.png"
+  },
+  {
+    "id": "5",
+    "name": "Ragdoll",
+    "description": "Numele provine de la tendința lor de a se relaxa complet când sunt luate în brațe; sunt pisici extrem de docile și afectuoase.",
+    "image": "https://i.imgur.com/NN49soI.jpeg"
+  },
+  {
+    "id": "6",
+    "name": "British Shorthair",
+    "description": "O pisică robustă, cu o față rotundă și blană densă, cunoscută pentru natura sa echilibrată și calmul imperturbabil.",
+    "image": "https://i.imgur.com/TBDZToT.png"
+  },
+  {
+    "id": "7",
+    "name": "Sphynx",
+    "description": "Faimoasă pentru lipsa blănii, această rasă este surprinzător de caldă la atingere și extrem de dependentă de atenția umană.",
+    "image": "https://i.imgur.com/bCvvPTA.png"
+  },
+  {
+    "id": "8",
+    "name": "Albastru de Rusia",
+    "description": "O pisică rezervată și discretă, cu o blană argintie-albăstruie superbă și ochi de un verde smarald intens.",
+    "image": "https://i.imgur.com/q77yl6y.png"
+  },
+  {
+    "id": "9",
+    "name": "Scottish Fold",
+    "description": "Urechile pliate spre înainte îi conferă un aspect de bufniță, fiind o pisică jucăușă care adoră să stea în poziții amuzante.",
+    "image": "https://i.imgur.com/sgLwo9n.png"
+  },
+  {
+    "id": "10",
+    "name": "Birmaneză",
+    "description": "Cunoscută ca „Pisica Sacră de Birmania”, îmbină aspectul siamezei cu blana lungă, având mereu „mânuși” albe la lăbuțe.",
+    "image": "https://i.imgur.com/1gcqzgy.png"
+  }
+]
